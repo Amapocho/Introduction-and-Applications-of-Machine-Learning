@@ -13,11 +13,11 @@ In the fourth week we intend to introduce the students to Deep Learning and how 
 
 | Week |                          Topic                         |<center>Subtopic</center>                                                      |
 |:----:|:------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------|
-|   1  |              Machine Learning introduction             |  <ul><li>Basic Concepts of Python, Numpy, and Pandas</li><li>Introducing supervised, unsupervised learning and other pre-requisites</li></ul> |
-|  2   |                     Theory of ML                       |  <ul><li>Introduction to Machine Learning Algorithms</li><li>Bayes rule</li><li>Loss functions</li><li>Gradient Descent </li></ul>                            |
-|   3  |           Applying ML and project discussion           |  <ul><li> Linear regression </li><li> Logistic regression </li><li> SVMs </li><li> Decision trees (binary classification and multi-class classification) </li></ul>  |
-|   4  |              Introduction to Deep Learning             |  <ul><li> Multi-layer perceptrons </li><li> Backpropagation </li><li> Data loading </li><li> Data augmentation</li></ul>                                         |
-|   5  | Introduction to Computer Vision and project completion |  <ul><li> Convolutional Neural Networks and image classification </li><li> Introducing architectures for CV tasks </li></ul>                       |
+|   1  |              Machine Learning Introduction             |  <ul><li>Basic concepts of Python, Numpy, and Pandas</li><li>Introducing supervised, unsupervised learning and other pre-requisites</li></ul> |
+|  2   |                     Theory of ML                       |  <ul><li>Introduction to Machine Learning algorithms</li><li>Bayes' rule</li><li>Loss functions</li><li>Gradient descent </li></ul>                            |
+|   3  |           Applying ML and Project Discussion           |  <ul><li> Linear regression </li><li> Logistic regression </li><li> SVMs </li><li> Decision trees (binary classification and multi-class classification) </li></ul>  |
+|   4  |              Introduction to Deep Learning             |  <ul><li> Multi-layer Perceptrons </li><li> Backpropagation </li><li> Data loading </li><li> Data augmentation</li></ul>                                         |
+|   5  | Introduction to Computer Vision and Project Completion |  <ul><li> Convolutional Neural Networks and image classification </li><li> Introducing architectures for CV tasks </li></ul>                       |
 
 ## Timing
 
