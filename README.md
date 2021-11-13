@@ -11,7 +11,7 @@ In the fourth week we intend to introduce the students to Deep Learning and how 
 
 ## Course Plan
 
-| Week |                          Topic                         |                                                       Subtopic                                                      |
+| Week |                          Topic                         |<t><t>Subtopic                                                      |
 |:----:|:------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------|
 |   1  |              Machine Learning introduction             |  <ul><li>Basic Concepts of Python, Numpy, and Pandas</li><li>Introducing supervised, unsupervised learning and other pre-requisites</li></ul> |
 |  2   |                     Theory of ML                       |  <ul><li>Introduction to Machine Learning Algorithms</li><li>Bayes rule</li><li>Loss functions</li><li>Gradient Descent </li></ul>                            |
