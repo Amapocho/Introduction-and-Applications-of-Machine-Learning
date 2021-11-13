@@ -19,7 +19,7 @@ In the fourth week we intend to introduce the students to Deep Learning and how 
 |   4  |              Introduction to Deep Learning             |  <ul><li> Multi-layer perceptrons </li><li> Backpropagation </li><li> Data loading </li><li> Data augmentation</li></ul>                                         |
 |   5  | Introduction to Computer Vision and project completion |  <ul><li> Convolutional Neural Networks and image classification </li><li> Introducing architectures for CV tasks </li></ul>                       |
 
-##Timing
+## Timing
 
 Tuesday - 6:00PM to 7:30PM <br>
 Thursday - 6:00PM to 7:30PM <br>
