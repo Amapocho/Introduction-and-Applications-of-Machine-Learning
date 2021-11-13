@@ -21,6 +21,6 @@ In the fourth week we intend to introduce the students to Deep Learning and how 
 
 ##Timing
 
-Tuesday - 6:00PM to 7:30PM
-Thursday - 6:00PM to 7:30PM
+Tuesday - 6:00PM to 7:30PM <br>
+Thursday - 6:00PM to 7:30PM <br>
 Saturday - 3:00PM to 4:30PM
