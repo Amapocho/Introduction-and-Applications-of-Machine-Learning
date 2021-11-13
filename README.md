@@ -18,3 +18,9 @@ In the fourth week we intend to introduce the students to Deep Learning and how 
 |   3  |           Applying ML and project discussion           |  <ul><li> Linear regression </li><li> Logistic regression </li><li> SVMs </li><li> Decision trees (binary classification and multi-class classification) </li></ul>  |
 |   4  |              Introduction to Deep Learning             |  <ul><li> Multi-layer perceptrons </li><li> Backpropagation </li><li> Data loading </li><li> Data augmentation</li></ul>                                         |
 |   5  | Introduction to Computer Vision and project completion |  <ul><li> Convolutional Neural Networks and image classification </li><li> Introducing architectures for CV tasks </li></ul>                       |
+
+##Timing
+
+Tuesday - 6:00PM to 7:30PM
+Thursday - 6:00PM to 7:30PM
+Saturday - 3:00PM to 4:30PM
